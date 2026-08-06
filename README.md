@@ -1,8 +1,6 @@
 # Weekly Weather Forecasting with Holt-Winters Exponential Smoothing
 
-Team project for BAX 442 (Homework 6) — forecasting a weekly weather time series 26 weeks into the future using the Holt-Winters filter, and comparing how the trend (beta) and seasonal (gamma) components affect forecast quality.
-
-**Authors:** Anita Cheng, Raine Yu, Udita Saha, Sheryn Liao
+forecasting a weekly weather time series 26 weeks into the future using the Holt-Winters filter, and comparing how the trend (beta) and seasonal (gamma) components affect forecast quality.
 
 ## Overview
 
