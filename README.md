@@ -2,7 +2,7 @@
 
 Forecasting a weekly weather time series 26 weeks into the future using Holt-Winters exponential smoothing, comparing how the trend (beta) and seasonal (gamma) components affect forecast quality.
 
-**[Live dashboard →](#) (add your Streamlit Cloud link here after deploying)**
+**[Live dashboard →](#) (https://seasonality-vs-trend.streamlit.app/)**
 
 ## Overview
 
